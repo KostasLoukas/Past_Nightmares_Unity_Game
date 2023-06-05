@@ -7,6 +7,8 @@ This game is a demo and was created for a thesis in a collaboration project with
 
 The game was developed with the Unity Engine using the C# language.
 
+There is no source code provided as we may decide to commercialize this product in the future.
+
 ![0](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/35c73d2d-1398-4e74-87b0-d009ad62830a)
 ![1](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/4285b513-476c-4636-bea3-b2fa2b94b8de)
 ![5](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/4b17b53f-7d9e-4974-bd01-191e616cf32e)
