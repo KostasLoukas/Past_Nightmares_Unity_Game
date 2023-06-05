@@ -11,3 +11,5 @@ This game is a demo and was created for a thesis in a collaboration project with
 ![6](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/36cf6e54-59d5-45f3-ad25-ba1cb95ab1b4)
 ![9](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/d7db632c-6e3e-4113-89be-b28fc1fd9847)
 
+You can find the game on itch.io here:
+https://kostasloukas.itch.io/past-nightmares
