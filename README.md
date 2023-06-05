@@ -9,11 +9,12 @@ The game was developed with the Unity Engine using the C# language.
 
 There is no source code provided as we may decide to commercialize this product in the future.
 
+You can find the demo on itch.io here:
+https://kostasloukas.itch.io/past-nightmares
+
 ![0](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/35c73d2d-1398-4e74-87b0-d009ad62830a)
 ![1](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/4285b513-476c-4636-bea3-b2fa2b94b8de)
 ![5](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/4b17b53f-7d9e-4974-bd01-191e616cf32e)
 ![6](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/36cf6e54-59d5-45f3-ad25-ba1cb95ab1b4)
 ![9](https://github.com/KostasLoukas/Past_Nightmares_Unity_Game/assets/105225491/d7db632c-6e3e-4113-89be-b28fc1fd9847)
 
-You can find the game on itch.io here:
-https://kostasloukas.itch.io/past-nightmares
