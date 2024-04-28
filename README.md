@@ -3,11 +3,11 @@ Past Nightmares is a game about a young boy, James, whose life changes drastical
 
 Living in the age of war between his country and others, James struggles to cope with the emotional trauma that the world has brought him into, trying desperately to fight the demons that haunt his dreams.
 
-This game is a demo and was created for a thesis in a collaboration project with another department of my university. This game is not to be taken seriously and is only a prototype of an idea that my partner and I came together to show off. There are no plans to develop it further whatsoever, though the plot is written and planned out on its whole, so if any person does want to see it fully released, we may do just that. :)
+This game is a demo and was created for a thesis in a collaboration project with another department of my university. This game is not to be taken seriously and is only a prototype of an idea that my partner and I came together to show off. There are no plans to develop it further currently, though the plot is written and planned out on its whole, so if any person does want to see it fully released, we may do just that. :)
 
 The game was developed with the Unity Engine using the C# language.
 
-There is no source code provided as we may decide to commercialize this product in the future.
+There is no source code provided as we may decide to commercialize this product in the future as stated above.
 
 You can find the demo on itch.io here:
 https://kostasloukas.itch.io/past-nightmares
