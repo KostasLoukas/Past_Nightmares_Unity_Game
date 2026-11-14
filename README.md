@@ -1,2 +1,2 @@
-# Past Nightmares - A Unity Game
+# Past Nightmares - A Unity Game (Demo)
 
